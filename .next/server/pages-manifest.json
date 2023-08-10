@@ -2,7 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/active-recipes": "pages/active-recipes.js",
-  "/": "pages/index.js",
-  "/recipe-bank": "pages/recipe-bank.js"
+  "/recipe-bank": "pages/recipe-bank.js",
+  "/recipe-bank/new": "pages/recipe-bank/new.js"
 }
